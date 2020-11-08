@@ -1,0 +1,6 @@
+.origami{
+    display: flex;
+    flex-direction: row;
+    background-color: darkmagenta;
+    justify-content: space-evenly;
+}
